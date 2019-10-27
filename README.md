@@ -1,5 +1,6 @@
 # Weather Portal
 ## Simple weather portal website
+```
 
 ## Project setup
 ```
