@@ -1,4 +1,5 @@
 # weather-portal
+<<<<<<< HEAD
 
 ## Project setup
 ```
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+Weather portal web
+>>>>>>> 1201e6f893113b67224424242c306ff7967015cd
