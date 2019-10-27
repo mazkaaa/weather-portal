@@ -38,7 +38,7 @@ export default {
     regionQuerySearch: String,
     data() {
         return{
-            weatherList: [],
+            weatherList: []
         };
     },
     methods: {
