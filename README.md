@@ -1,5 +1,5 @@
 # Weather Portal
-## Simple weather portal website
+Simple weather portal website.
 
 
 
